@@ -1,6 +1,7 @@
-<h1>Hub orders</h1>
-<h2>Hub orders using Golang!</h2>
 [![Go Reference][reference-badge]][reference-link]
+## Hub orders
+### Hub orders using Golang!
+
 
 <!-- JUST BADGES & LINKS -->
 [reference-badge]: https://godoc.org/github.com/guumaster/logsymbols?status.svg
