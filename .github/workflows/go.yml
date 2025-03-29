@@ -37,3 +37,21 @@ jobs:
 
       - name: Test
         run: go test -v ./...
+
+      - name: Check for errors
+        if: failure()
+        run: |
+          echo "NOPE"
+          echo "      _________"
+          echo "     /         \\"
+          echo "    |   ______  |"
+          echo "    |  |      |  |"
+          echo "    |  |  X   |  |"
+          echo "    |  | ERROR |  |"
+          echo "    |  |______|  |"
+          echo "     \\_________/  "
+          echo "        ||||"
+          echo "       _||||_"
+          echo "      /______\\"
+          echo "    SYSTEM CRASH!"
+          exit 1
