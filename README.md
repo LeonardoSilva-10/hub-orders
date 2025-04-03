@@ -24,7 +24,7 @@ Upcoming updates will focus on:
    ```
 2. Install dependencies:
    ```sh
-   go mod 
+   go mod tidy
    ```
 3. Run the application:
    ```sh
