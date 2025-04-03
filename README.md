@@ -35,7 +35,7 @@ Upcoming updates will focus on:
 Contributions are welcome! Feel free to submit issues or pull requests to help improve Hub-Orders.
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the Apache License. See `LICENSE` for details.
 
 ---
 Stay tuned for updates! 🚀
