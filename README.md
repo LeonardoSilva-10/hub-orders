@@ -1,7 +1,5 @@
 [![Go Reference][reference-badge]][reference-link]
-# Hub-Orders
-
-## 🚀
+# Hub-Orders 🚀
 
 Hub-Orders is a Golang-based order management system designed for scalability and performance. This initial release lays the foundation for efficient order processing, with key features including:
 
