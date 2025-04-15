@@ -1,11 +1,12 @@
 package main
 
 import (
-	"hub-orders/internal/api"
-	"hub-orders/internal/db"
-	"hub-orders/internal/logger"
 	"log"
 	"net/http"
+
+	"github.com/hub-orders/internal/api"
+	"github.com/hub-orders/internal/db"
+	"github.com/hub-orders/internal/logger"
 )
 
 func main() {

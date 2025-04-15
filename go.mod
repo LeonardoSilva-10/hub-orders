@@ -1,4 +1,4 @@
-module hub-orders
+module github.com/hub-orders
 
 go 1.24
 
